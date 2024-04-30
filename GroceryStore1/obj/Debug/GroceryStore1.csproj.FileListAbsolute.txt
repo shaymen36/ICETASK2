@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GroceryStore1\bin\Debug\GroceryStore1.exe.config
+C:\Users\User\source\repos\GroceryStore1\bin\Debug\GroceryStore1.exe
+C:\Users\User\source\repos\GroceryStore1\bin\Debug\GroceryStore1.pdb
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.Form1.resources
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.Properties.Resources.resources
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.exe
+C:\Users\User\source\repos\GroceryStore1\obj\Debug\GroceryStore1.pdb

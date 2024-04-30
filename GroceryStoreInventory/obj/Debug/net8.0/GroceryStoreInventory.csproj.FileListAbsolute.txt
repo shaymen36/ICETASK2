@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GroceryStoreInventory\bin\Debug\net8.0\GroceryStoreInventory.exe
+C:\Users\User\source\repos\GroceryStoreInventory\bin\Debug\net8.0\GroceryStoreInventory.deps.json
+C:\Users\User\source\repos\GroceryStoreInventory\bin\Debug\net8.0\GroceryStoreInventory.runtimeconfig.json
+C:\Users\User\source\repos\GroceryStoreInventory\bin\Debug\net8.0\GroceryStoreInventory.dll
+C:\Users\User\source\repos\GroceryStoreInventory\bin\Debug\net8.0\GroceryStoreInventory.pdb
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.AssemblyInfo.cs
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.dll
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\refint\GroceryStoreInventory.dll
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.pdb
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\GroceryStoreInventory.genruntimeconfig.cache
+C:\Users\User\source\repos\GroceryStoreInventory\obj\Debug\net8.0\ref\GroceryStoreInventory.dll
